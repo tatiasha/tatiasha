@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Tatiana</h1>
-<h3 align="center">A enthusiastic data scientist</h3>
+<h3 align="center">An enthusiastic data scientist</h3>
 
 - 🌱 I’m passion about **time series and graphs**
 
